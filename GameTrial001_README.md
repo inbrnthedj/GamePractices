@@ -16,7 +16,7 @@ This repository is a collection of game project mechanics and trials.
 
 
 
-###### Game Trial n. 1 - Turn-base game
+###### Game Trial n. 001 - Turn-base game
 
 * Language : C
 * Date Created : 05/10/2025
@@ -38,4 +38,5 @@ Fighting Simulation between a Mage ("Merlin") and a Knight ("Pendragon")
 * summarizes stats (to be improved)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 
